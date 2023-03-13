@@ -29,7 +29,8 @@ num2=temp
 print("Swapped values are:",num1,num2)
  
 ##OUTPUT:
-[png2jpg.zip](https://github.com/Darshans05/Swapping-two-values/files/10954049/png2jpg.zip)
+![python swapping of variables](https://user-images.githubusercontent.com/115534676/224619182-856842ba-00bf-4958-9cb0-5421a1cfc7b8.jpg)
+
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
